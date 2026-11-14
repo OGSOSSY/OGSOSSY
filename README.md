@@ -8,6 +8,7 @@ AI agent and automation builder with 10+ years in IT engineering. I've shipped r
 
 ### 🎮 Throne of Nova — my own 3D mobile strategy game
 A fully 3D, free-to-play war-strategy game for phones, in the spirit of Clash of Clans and Game of Thrones: Conquest. Dark, gloomy fantasy with dragons, heroes, research, and alliance warfare — strongholds, seasons, and a race for the Iron Seat. Built solo: game systems, 3D UI, hero setup, economy, and live cloud hosting. Preparing to launch with real players.
+🔗 Join the community: https://discord.gg/MKM5SVtq4
 
 ### 🕹️ FiveM — 3 years running a GTA V multiplayer server
 Owned and developed a custom FiveM server for 3 years — coding, server admin, business, and community. I write my own Lua scripts and sell them under my store, OG Scripts, and I do paid development for other server owners. I also build Discord servers, bots, and APIs.
