@@ -26,6 +26,23 @@
 | **Backend & bots** | Discord bots, APIs, SQL, VPS hosting and server admin |
 | **Delivery** | **PMP**, **SAFe 5 PO/PM**, **SAFe 5 Scrum Master** · 10+ years in enterprise tech |
 
+## 🛠️ Dev tools I use
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js_npm-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BlueStacks-2C8FFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
 ## 🤖 Projects
 
 **🦾 Robot Helper** — Windows AI assistant with a local LLM brain (Ollama). Runs PC commands by chat and has a live *coach mode* that watches a strategy game and suggests the next move. `Python` `Ollama` `BlueStacks`
@@ -40,7 +57,7 @@
 **MCP server for my game agent** — so AI agents like Claude can drive my bots through the Model Context Protocol.
 
 ## 🎯 Looking for
-**AI Agent Developer / AI Software Engineer** roles · Dallas–Frisco or remote.
+**AI Agent Developer / AI Software Engineer** roles.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/giorgiobryant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
