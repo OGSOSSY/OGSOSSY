@@ -49,9 +49,20 @@
 
 **⚔️ OGSossy Hunter** — Game-playing AI agent: plays a mobile strategy game on its own and learns from what the LLM does. *(Code private.)* `Python` `Automation`
 
-**🐉 Throne of Nova** — My own 3D mobile war-strategy game: heroes, dragons, alliance seasons and an online shared world. Built solo, preparing for launch. *(Code private.)* · [Join the community](https://discord.gg/MKM5SVtq4)
+**🐉 Throne of Nova** — My own 3D mobile war-strategy game: heroes, dragons, alliance seasons and an online shared world. Built solo, preparing for launch. *(Code private.)*
 
 **🎮 FiveM server + OG Scripts** — Owned and developed a GTA V multiplayer server for 3 years: Lua scripts, server admin, community and a paid store. I also do paid dev work for other server owners. `Lua` `QBCore`
+
+## 🌐 Community I run — AI Dev Gaming World
+
+<a href="https://discord.gg/P4gxkdJezQ"><img src="https://img.shields.io/badge/Join_AI_Dev_Gaming_World-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
+I founded and run **AI Dev Gaming World**, a Discord community of **~7,000 members** where AI developers and gamers hang out, build AI agents, share projects and play together.
+
+- 🤖 **AI Lab** — AI agents, LLMs and prompts, automation bots, MCP and tools, Python
+- ⚡ **Help and Showcase** — help forum, show-your-project, code review, Demo Day stage
+- 🎮 **Gaming Zone** — game AI, squads and clips
+- 🛡️ Built-in safety: rules gate, verification, AutoMod anti-spam and scam filters
 
 ## 🔨 Building now
 **MCP server for my game agent** — so AI agents like Claude can drive my bots through the Model Context Protocol.
@@ -61,5 +72,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/giorgiobryant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.gg/8vmSQTrFgc"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/P4gxkdJezQ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
