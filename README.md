@@ -1,37 +1,48 @@
-# Hi, I'm Giorgio 👋
+<h1 align="center">Hi, I'm Giorgio 👋</h1>
+<h3 align="center">AI Agent Developer · I build bots and AI agents that command and control things</h3>
 
-## 🤖 I build AI agents, bots, and games that command and control things
-
-AI agent and automation builder with 10+ years in IT engineering. I've shipped real software for years — from a multiplayer game server I ran for 3 years, to AI-powered assistants, to my own 3D mobile strategy game. Now I'm going all-in on Agentic AI.
-
----
-
-### 🎮 Throne of Nova — my own 3D mobile strategy game
-A fully 3D, free-to-play war-strategy game for phones, in the spirit of Clash of Clans and Game of Thrones: Conquest. Dark, gloomy fantasy with dragons, heroes, research, and alliance warfare — strongholds, seasons, and a race for the Iron Seat. Built solo: game systems, 3D UI, hero setup, economy, and live cloud hosting. Preparing to launch with real players.
-🔗 Join the community: https://discord.gg/MKM5SVtq4
-
-### 🕹️ FiveM — 3 years running a GTA V multiplayer server
-Owned and developed a custom FiveM server for 3 years — coding, server admin, business, and community. I write my own Lua scripts and sell them under my store, OG Scripts, and I do paid development for other server owners. I also build Discord servers, bots, and APIs.
-
-### 🧠 Robot Helper — a PC assistant with a local AI brain
-A Python assistant for Windows with a local AI brain powered by Ollama: chat, run commands, and a coach mode that watches and guides my gameplay. An agent that controls my computer.
-
-### 🤖 GOT Conquest Bot — Python game-automation agent
-A standalone Python bot that auto-plays a mobile game on its own through BlueStacks, run from VS Code. An agent that takes action, hands-free.
-
-### 🚗 Car Diagnostic App — DIY OBD dashboard
-A diagnostic and maintenance app for my 2019 Audi A5, shown on the car's dash screen — reads live data and tracks upcoming maintenance 24/7, so I stop paying for diagnostics.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM_APIs-D97757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-### 🛠️ Tech I work with
-Python · Lua · JavaScript · SQL · LLM APIs · Ollama · 3D game dev · Automation · Discord bots and APIs · Git
+## 🧠 Skills I've built
 
-### 🏅 Certifications
-PMP · SAFe 5 Product Owner / Product Manager · SAFe 5 Scrum Master
+| Area | What I can do |
+|---|---|
+| **AI agents** | Build agents that see a screen, decide, and take real actions (clicks, commands, game moves) |
+| **LLM integration** | Wire apps to LLM APIs and local models (Ollama) — chat, commands, coaching logic |
+| **AI-first coding** | Design and ship fast with Claude, GitHub Copilot, ChatGPT and DeepSeek |
+| **Automation** | Python bots that run Windows tasks and Android apps through BlueStacks |
+| **Game dev** | Built a 3D mobile strategy game solo — heroes, buildings, online shared world |
+| **Scripting** | 3 years of Lua for a live FiveM (GTA V) server; sold scripts under **OG Scripts** |
+| **Backend & bots** | Discord bots, APIs, SQL, VPS hosting and server admin |
+| **Delivery** | **PMP**, **SAFe 5 PO/PM**, **SAFe 5 Scrum Master** · 10+ years in enterprise tech |
 
-### 🎯 Where I'm headed
-Targeting a role as an AI Agent / Application Developer — building agents that command and control systems. Building in public, one project at a time.
+## 🤖 Projects
 
-### 📫 Reach me
-Discord: https://discord.gg/8vmSQTrFgc
+**🦾 Robot Helper** — Windows AI assistant with a local LLM brain (Ollama). Runs PC commands by chat and has a live *coach mode* that watches a strategy game and suggests the next move. `Python` `Ollama` `BlueStacks`
+
+**⚔️ OGSossy Hunter** — Game-playing AI agent: plays a mobile strategy game on its own and learns from what the LLM does. *(Code private.)* `Python` `Automation`
+
+**🐉 Throne of Nova** — My own 3D mobile war-strategy game: heroes, dragons, alliance seasons and an online shared world. Built solo, preparing for launch. *(Code private.)* · [Join the community](https://discord.gg/MKM5SVtq4)
+
+**🎮 FiveM server + OG Scripts** — Owned and developed a GTA V multiplayer server for 3 years: Lua scripts, server admin, community and a paid store. I also do paid dev work for other server owners. `Lua` `QBCore`
+
+## 🔨 Building now
+**MCP server for my game agent** — so AI agents like Claude can drive my bots through the Model Context Protocol.
+
+## 🎯 Looking for
+**AI Agent Developer / AI Software Engineer** roles · Dallas–Frisco or remote.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/giorgiobryant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.gg/8vmSQTrFgc"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
