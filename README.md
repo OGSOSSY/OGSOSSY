@@ -53,11 +53,11 @@
 
 **🎮 FiveM server + OG Scripts** — Owned and developed a GTA V multiplayer server for 3 years: Lua scripts, server admin, community and a paid store. I also do paid dev work for other server owners. `Lua` `QBCore`
 
-## 🌐 Community I run — AI Dev Gaming World
+## 🌐 Community I run — AI Gaming World
 
-<a href="https://discord.gg/P4gxkdJezQ"><img src="https://img.shields.io/badge/Join_AI_Dev_Gaming_World-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/P4gxkdJezQ"><img src="https://img.shields.io/badge/Join_AI_Gaming_World-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
-I founded and run **AI Dev Gaming World**, a Discord community of **~7,000 members** where AI developers and gamers hang out, build AI agents, share projects and play together.
+I founded and run **AI Gaming World**, a Discord community of **~7,000 members** where AI developers and gamers hang out, build AI agents, share projects and play together.
 
 - 🤖 **AI Lab** — AI agents, LLMs and prompts, automation bots, MCP and tools, Python
 - ⚡ **Help and Showcase** — help forum, show-your-project, code review, Demo Day stage
